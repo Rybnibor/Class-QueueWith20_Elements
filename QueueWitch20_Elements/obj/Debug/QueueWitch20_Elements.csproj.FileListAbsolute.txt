@@ -1,0 +1,4 @@
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\QueueWitch20_Elements\QueueWitch20_Elements\bin\Debug\QueueWitch20_Elements.dll
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\QueueWitch20_Elements\QueueWitch20_Elements\bin\Debug\QueueWitch20_Elements.pdb
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\QueueWitch20_Elements\QueueWitch20_Elements\obj\Debug\QueueWitch20_Elements.dll
+C:\Users\PACKARD\Documents\Visual Studio 2013\Projects\marka\QueueWitch20_Elements\QueueWitch20_Elements\obj\Debug\QueueWitch20_Elements.pdb
